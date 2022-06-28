@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amansingh141
 - 👀 I’m web debveloper
-- 🌱 I’m currently learning ...about google cloud
+- 🌱 I’m currently learning ...about machine learning (ML) Artifical Intelligence (AI)
 - 💞️ I’m looking to collaborate on ...microsoft arzue
 - 📫 How to reach me ...mail singhaman7773@gmail.com github amansingh@141 greeks for greeks @amansingh141 
 
